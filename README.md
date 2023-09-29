@@ -1,6 +1,6 @@
 # ROS_APF_CBF
 
-### The source code for CBF parameters updated algorithm in control framework.
+### The source code for CBF parameters update algorithm in control framework.
 ###### The simulation is performed in Gazebo/ROS (Melodic) environment which runs in Linux (Ubuntu 18.04)
 
 ### launch 
@@ -14,3 +14,5 @@ roslaunch uav_planning task_achievement.launch
 ```
 roslaunch uav_planning task_achievement_no_update.launch
 ```
+### Video
+The simulation video: [Video](https://vimeo.com/869509705?share=copy).
