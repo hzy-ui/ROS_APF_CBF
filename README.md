@@ -15,4 +15,4 @@ roslaunch uav_planning task_achievement.launch
 roslaunch uav_planning task_achievement_no_update.launch
 ```
 ### Video
-The simulation video: [Video](https://vimeo.com/869509705?share=copy).
+[Simulation Video](https://vimeo.com/869509705?share=copy).
