@@ -16,3 +16,6 @@ roslaunch uav_planning task_achievement_no_update.launch
 ```
 ### Video
 [Simulation Video](https://vimeo.com/869509705?share=copy).
+
+### Update log
+catkin_ws_1006: add object-oriented approach for multi-agent work later (scripts/test_obj)
