@@ -1,6 +1,6 @@
 # ROS_APF_CBF
 
-### The source code for CBF parameters update algorithm in control framework.
+### The source code of proposed CBF-APF based controller incorporated with online tuning CBF approach.
 ###### The simulation is performed in Gazebo/ROS (Melodic) environment which runs in Linux (Ubuntu 18.04)
 
 ### launch 
